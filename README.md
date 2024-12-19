@@ -4,11 +4,6 @@
 
 能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的markdown笔记，方便快速阅读
 
-FunASR: https://github.com/modelscope/FunASR
-
-Qwen2: https://ollama.com/library/qwen2
-
-## 效果展示
 
 ### 音视频识别和整理
 
